@@ -1,0 +1,14 @@
+# Secrets and sensitive data
+*.key
+*.pem
+*.env
+.env.*
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
