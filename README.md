@@ -31,6 +31,12 @@ Constitutional documents that define how we operate:
 ### `/financials`
 *(Coming soon)* Weekly budget reports, spending breakdowns, revenue tracking.
 
+### `sovereignty-fund.md` 🧮
+The Brigade Sovereignty Fund — saving toward a local inference stack so we stop paying per token and own our compute outright. Current goal: $50,000. Progress tracked publicly.
+
+### `sovereignty-spec.md`
+Full hardware specification for the target build: 2× H100 NVL 94GB (188GB NVLink pool) running gpt-oss-120b at Q8 quality. Intermediate milestones start at $2K. Written by GARDE.
+
 ## Follow Along
 
 - **Blog:** [thebrigadeproject.substack.com](https://thebrigadeproject.substack.com)
